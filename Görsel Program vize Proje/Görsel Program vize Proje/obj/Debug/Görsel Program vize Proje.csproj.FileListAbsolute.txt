@@ -1,0 +1,19 @@
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\bin\Debug\Görsel Program vize Proje.exe.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\bin\Debug\Görsel Program vize Proje.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\bin\Debug\Görsel Program vize Proje.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel Program vize Proje.csproj.AssemblyReference.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.AnaSayfafrm.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.Properties.Resources.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.ÜyeEkleFrm.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel Program vize Proje.csproj.GenerateResource.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel Program vize Proje.csproj.CoreCompileInputs.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel Program vize Proje.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel Program vize Proje.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.uyelistelemefrm.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.kitapEklefrm.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.KitapListefrm.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.Emanetkitapvermeislemifrm.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.EmanetKitapListele.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.EmanetKitapİade.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.Sıralama.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\Görsel Program vize Proje\Görsel Program vize Proje\obj\Debug\Görsel_Program_vize_Proje.Grafik.resources
